@@ -12,9 +12,9 @@ theo dõi công việc và tối ưu hóa thời gian một cách hiệu quả.
 | Họ và tên| Vai trò | Email |
 |---|---|---|
 | Phạm Nguyên Phương | Scrum Master | 24122011@email.com |
-| Trần Thị B | Frontend Developer | b@email.com |
-| Lê Văn C | Backend Developer | c@email.com |
-| Phạm Thị D | UI/UX Designer | d@email.com |
+| Cái Hoàng Bảo Kin | Frontend Developer | b@email.com |
+| Trần Lê Minh Đức | Backend Developer | c@email.com |
+| Trần Quốc Khanh | UI/UX Designer | d@email.com |
 
 ---
 
