@@ -12,9 +12,9 @@ theo dõi công việc và tối ưu hóa thời gian một cách hiệu quả.
 | Họ và tên| Vai trò | Email |
 |---|---|---|
 | Phạm Nguyên Phương | Scrum Master | 24122011@student.hcmus.edu.vn, nphuongpham172@gmail.com|
-| Cái Hoàng Bảo Kin | Frontend Developer | 24122040@student.hcmus.edu.vn |
-| Trần Lê Minh Đức | Backend Developer | 24122031@student.hcmus.edu.vn |
-| Trần Quốc Khanh | UI/UX Designer | 24122001@student.hcmus.edu.vn |
+| Cái Hoàng Bảo Kin | Project Owner | 24122040@student.hcmus.edu.vn |
+| Trần Lê Minh Đức | Developer | 24122031@student.hcmus.edu.vn |
+| Trần Quốc Khanh | Developer | 24122001@student.hcmus.edu.vn |
 
 ---
 
