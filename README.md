@@ -33,7 +33,7 @@ theo dõi công việc và tối ưu hóa thời gian một cách hiệu quả.
 
 > Tài liệu dự án, task board và tiến độ được cập nhật tại:
 
-[[Xem trên Notion](https://www.notion.so/your-link-here)](https://www.notion.so/User-Stories-328408afddbd80849464c2689b740f99)
+(https://www.notion.so/your-link-here)](https://www.notion.so/User-Stories-328408afddbd80849464c2689b740f99)
 
 ---
 
