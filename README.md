@@ -28,15 +28,3 @@ theo dõi công việc và tối ưu hóa thời gian một cách hiệu quả.
 - **Tìm kiếm & lọc** — Tìm kiếm sự kiện theo từ khóa, ngày, danh mục
 
 ---
-
-## Notion
-
-> Tài liệu dự án, task board và tiến độ được cập nhật tại:
-
-(https://www.notion.so/your-link-here)](https://www.notion.so/User-Stories-328408afddbd80849464c2689b740f99)
-
----
-
-##  Công nghệ sử dụng
-
----
